@@ -1,0 +1,58 @@
+-------------------------   --------------------
+Rotational constants in cm-1:     0.091482     0.041961     0.031427
+Rotational constants in MHz :  2742.571321  1257.967955   942.147049
+
+FINAL SINGLE POINT ENERGY      -421.152332143718
+------------
+INNER ENERGY
+------------
+Electronic energy                ...   -421.15233214 Eh
+Zero point energy                ...      0.13712366 Eh      86.05 kcal/mol
+Thermal vibrational correction   ...      0.00698809 Eh       4.39 kcal/mol
+Thermal rotational correction    ...      0.00141627 Eh       0.89 kcal/mol
+Thermal translational correction ...      0.00141627 Eh       0.89 kcal/mol
+-----------------------------------------------------------------------
+Total thermal energy                   -421.00538786 Eh
+
+Total thermal correction                  0.00982063 Eh       6.16 kcal/mol
+Non-thermal (ZPE) correction              0.13712366 Eh      86.05 kcal/mol
+-----------------------------------------------------------------------
+Total correction                          0.14694429 Eh      92.21 kcal/mol
+
+
+--------
+ENTHALPY
+--------
+
+The enthalpy is H = U + kB*T
+                kB is Boltzmann's constant
+Total free energy                 ...   -421.00538786 Eh 
+Thermal Enthalpy correction       ...      0.00094421 Eh       0.59 kcal/mol
+-----------------------------------------------------------------------
+Total Enthalpy                    ...   -421.00444365 Eh
+
+
+-------
+ENTROPY
+-------
+Electronic entropy                ...      0.00065446 Eh      0.41 kcal/mol
+Vibrational entropy               ...      0.01253268 Eh      7.86 kcal/mol
+Rotational entropy                ...      0.01377035 Eh      8.64 kcal/mol
+Translational entropy             ...      0.01909510 Eh     11.98 kcal/mol
+-----------------------------------------------------------------------
+Final entropy term                ...      0.04605259 Eh     28.90 kcal/mol
+
+-------------------
+GIBBS FREE ENERGY
+-------------------
+
+The Gibbs free energy is G = H - T*S
+
+Total enthalpy                    ...   -421.00444365 Eh 
+Total entropy correction          ...     -0.04605259 Eh    -28.90 kcal/mol
+-----------------------------------------------------------------------
+Final Gibbs free energy         ...   -421.05049624 Eh
+
+For completeness - the Gibbs free energy minus the electronic energy
+G-E(el)                           ...      0.10183590 Eh     63.90 kcal/mol
+

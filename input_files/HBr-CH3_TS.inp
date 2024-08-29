@@ -1,0 +1,29 @@
+     1, 298.15, 101325           nMolec, Temp, Pressure[Pa]
+     "kJ/mol"                    energy unit
+     50.0                       cm-1 freq_threshold
+     0   0                       nEquilibr, nReaction
+
+
+
+
+    "HBr--CH3_vdW"        name 
+    "TS"                         moltype{Molecule, TS, Atom}
+     6  0                        natom, nlin
+     0.000  2                Ezero, multiplicity 
+
+     3.0   1.0                   sigma, chiral
+    "xyzgeom"                    what = xyzgeom or inertia
+    "HBr+CH3_TS_on_PES.xyz"        filename of geometry
+
+     1.0                         freq_scale
+     272
+     272
+     709
+     709
+     707
+     1446
+     1446
+     1507
+     3105
+     3304
+     3304

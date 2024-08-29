@@ -1,0 +1,28 @@
+     1, 298.15, 101325           nMolec, Temp, Pressure[Pa]
+     "kJ/mol"                    energy unit
+     50.0                       cm-1 freq_threshold
+     0   0                       nEquilibr, nReaction
+
+
+
+
+    "CH3"        name 
+    "Molecule"                         moltype{Molecule, TS, Atom}
+     4  0                        natom, nlin
+     0.000  2                Ezero, multiplicity 
+
+     6.0   1.0                   sigma, chiral
+    "xyzgeom"                    what = xyzgeom or inertia
+    "CH3.xyz"        filename of geometry
+
+     1.0                         freq_scale
+    123
+123
+123
+13
+123
+123
+123
+123
+123
+

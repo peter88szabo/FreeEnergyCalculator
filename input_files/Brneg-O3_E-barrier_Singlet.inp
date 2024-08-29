@@ -1,0 +1,47 @@
+     3, 300.00, 101325           nMolec, Temp, Pressure[Pa]
+     "kJ/mol"                    energy unit
+     150.0                       cm-1 freq_threshold
+     0   1                       nEquilibr, nReaction
+
+     1 2 3  
+
+    "O3_sing"        name
+    "Molecule"                         moltype{Molecule, TS, Atom}
+     3  0                        natom, nlin
+     0.0   1                Ezero, multiplicity
+
+     2.0   1.0                   sigma, chiral
+    "xyzgeom"                    what = xyzgeom or inertia
+    "Ozone_Singlet.xyz"        filename of geometry
+
+     1.0                         freq_scale
+  798.06
+ 1373.81
+ 1376.74
+
+
+    "Brneg"        name
+    "Atom"                         moltype{Molecule, TS, Atom}
+     1  0                        natom, nlin
+     0.0    1                Ezero, multiplicity
+     79.9
+
+
+    "BrO3_TS_Zisom"        name
+    "TS"                         moltype{Molecule, TS, Atom}
+     4  0                        natom, nlin
+     0.008453068  1                Ezero, multiplicity
+
+     1.0   1.0                   sigma, chiral
+    "xyzgeom"                    what = xyzgeom or inertia
+    "Saddle_E-isom_Singlet_Brneg--O3.xyz"        filename of geometry
+
+     1.0                         freq_scale
+  107.07
+  268.97
+  570.16
+  625.30
+ 1131.21
+
+     
+

@@ -1,0 +1,25 @@
+     1, 298.15, 101325           nMolec, Temp, Pressure[Pa]
+     "kJ/mol"                    energy unit
+     100.0                       cm-1 freq_threshold
+     0   0                       nEquilibr, nReaction
+
+
+
+
+    "HO2_doublet"        name 
+    "Molecule"                         moltype{Molecule, TS, Atom}
+     3  0                        natom, nlin
+     0.000  2                Ezero, multiplicity 
+
+     1.0   1.0                   sigma, chiral
+    "xyzgeom"                    what = xyzgeom or inertia
+    "ho2-geom.xyz"        filename of geometry
+
+     1.0                         freq_scale
+     1218.12
+     1416.91
+     3590.82
+
+
+
+

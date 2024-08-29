@@ -1,0 +1,46 @@
+     3   298.15   101325           nMolec, Temp, Pressure[Pa]
+     "kJ/mol"                    energy unit
+     100.0                       cm-1 freq_threshold
+     0   1                       nEquilibr, nReaction
+     1  2  3
+
+
+
+    "F_atom"        name
+    "Atom"                         moltype{Molecule, TS, Atom}
+     1  0                        natom, nlin
+     0.00  4                Ezero, multiplicity
+     18.9984
+
+
+    "H2__"        name
+    "Molecule"                         moltype{Molecule, TS, Atom}
+     2  1                        natom, nlin
+     0.00  1                Ezero, multiplicity
+     2.0   1.0                   sigma, chiral
+     "inertia" 
+     2.016                         tot mass
+     "amuAng2"                   interia unit
+      0.277  0.277 1.0e20 
+
+     1.0                         freq_scale
+     4395.2
+
+
+    "FHH_TS"        name 
+    "TS"                         moltype{Molecule, TS, Atom}
+     3  1                        natom, nlin
+     0.00157245  4                Ezero, multiplicity 
+     1.0   1.0                   sigma, chiral
+    "inertia"                    what = xyzgeom or inertia
+     21.014
+     "amuAng2"
+     7.433  7.433 1.0e20
+
+     1.0                         freq_scale
+     397.9
+     397.9
+    4007.6
+
+
+
